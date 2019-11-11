@@ -18,6 +18,11 @@
   },
   "homepage": "https://github.com/AmiraTarekMohamed/shipping-service#readme",
   "devDependencies": {
+    "nock": "^11.7.0",
     "sinon": "^7.5.0"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "express": "^4.17.1"
   }
 }
